@@ -1,8 +1,4 @@
 ### Olá 👋
-- 🌱 Estudando Java
-- 📫 e-mail: wendellvangelo@gmail.com
-
-##
 
 <div>
   <a href="https://github.com/WendellAngello">
