@@ -4,15 +4,6 @@
 - 🌱 Estudando Java
 - 📫 e-mail: wendellvangelo@gmail.com
 
-<br/>
-
-<div align="center">
-  <a href="https://github.com/wendellangello#gh-dark-mode-only">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wendellangello&count_private=true&show_icons=true&include_all_commits=true&theme=midnight-purple&bg_color=0d11175c"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendelangello&langs_count=8&layout=compact&theme=midnight-purple&bg_color=0d11175c"/>
-  </a>
-</div>
-
 ##
 
 <div style="display: inline_block"><br>
