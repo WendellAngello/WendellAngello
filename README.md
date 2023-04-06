@@ -13,5 +13,5 @@
 
 <div> 
    <a href="https://www.linkedin.com/in/wendell-vieira-angelo-a46736270/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=https://github.com/WendellAngello/=true&theme=radical"/>
+  <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=WendellAngello=true&theme=radical"/>
 </div>
